@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RecipeScraping">
+<test name="ReceipeScraping_Tests" >	
+
+<classes>
+	<class name="testcases.TC_Maharashtrian"/>
+	<class name="testcases.TC_Rajasthani"/>
+	<class name="testcases.TC_SouthIndian"/>
+	<class name="testcases.TC_Punjabi"/>
+	<class name="testcases.TC_Gujarati"/>
+	<class name="testcases.TC_Chinese"/>
+	<class name="testcases.TC_Italian"/>	
+</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87534" started-at="2023-04-24T21:29:48 PDT" finished-at="2023-04-24T21:31:15 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87534" started-at="2023-04-24T21:29:48 PDT" finished-at="2023-04-24T21:31:15 PDT">
+      <class name="testcases.TC_Gujarati">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.TC_Gujarati@fa4c865]" name="setup" is-config="true" duration-ms="11696" started-at="2023-04-24T21:29:48 PDT" finished-at="2023-04-24T21:30:00 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Finalsetup()[pri:0, instance:testcases.TC_Gujarati@fa4c865]" name="Finalsetup" duration-ms="75743" started-at="2023-04-24T21:30:00 PDT" finished-at="2023-04-24T21:31:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finalsetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TC_Gujarati@fa4c865]" name="tearDown" is-config="true" duration-ms="0" started-at="2023-04-24T21:31:15 PDT" finished-at="2023-04-24T21:31:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC_Gujarati -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
